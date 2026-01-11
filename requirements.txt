@@ -1,0 +1,8 @@
+aiohttp
+gradio
+matplotlib
+numpy
+pandas
+requests
+scipy
+openpyxl
